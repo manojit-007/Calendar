@@ -1,4 +1,5 @@
 # Calendar
+
 Calendar using Html, Css and Javascript
 
 # Calendar App
@@ -36,4 +37,6 @@ Simply open the `index.html` file in your web browser to view the calendar appli
 
 [manojit-007]
 
+## Live preview
 
+[Demo](https://manojit-007.github.io/Calendar/) 
