@@ -30,7 +30,7 @@ Simply open the `index.html` file in your web browser to view the calendar appli
 
 ## Preview
 
-[Include a screenshot or GIF of your application here]
+![Calendar](/project.png)
 
 ## Author
 
